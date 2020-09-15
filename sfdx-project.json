@@ -1,0 +1,9 @@
+{
+    "packageDirectories": [
+    ],
+    "namespace": "YourNamespace",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "48.0",
+    "packageAliases": {
+    }
+}

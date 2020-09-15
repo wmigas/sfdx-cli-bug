@@ -1,0 +1,8 @@
+{
+  "orgName": "MyOrgForBug",
+  "edition": "Enterprise",
+  "hasSampleData": false,
+  "features": [
+    "ServiceCloud"
+  ]
+}
